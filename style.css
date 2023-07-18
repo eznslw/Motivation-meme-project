@@ -1,0 +1,19 @@
+h1{
+    font-family: 'Caveat', cursive;
+    text-transform: uppercase;
+}
+
+body{
+    background-color: black;
+}
+
+.box{
+    color:white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+.img{
+    border: 5px solid white;
+    width:100%;
+}
